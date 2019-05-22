@@ -180,3 +180,7 @@ C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\roslyn\v
 C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\roslyn\vbc.rsp
 C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\roslyn\VBCSCompiler.exe
 C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedList.dll
+C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.dll
+C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedList.xml
+C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.xml
