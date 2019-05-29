@@ -6,7 +6,7 @@
     ViewBag.Title = "Students";
 }
 
-<h2>Students</h2>
+<h2>學生資料</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -19,7 +19,7 @@
     </p>
 }
 <table class="table">
-    <tr>
+    <tr class="bg-warning text-white">
         <th>
             @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
         </th>

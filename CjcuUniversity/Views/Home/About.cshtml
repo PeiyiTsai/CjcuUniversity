@@ -1,7 +1,32 @@
-﻿@{
-    ViewBag.Title = "About";
-}
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
+﻿@model IEnumerable<CjcuUniversity.Viewmodels.EnrollmentDateGroup>
 
-<p>Use this area to provide additional information.</p>
+@{
+    ViewBag.Title = "Student Body Statistics";
+}
+
+<h2>學生註冊統計</h2>
+
+<table class="table">
+    <tr class="bg-warning text-white">
+        <th>
+            註冊日期
+        </th>
+        <th>
+            學生數量
+        </th>
+    </tr>
+
+    <br />
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnrollmentDate)
+            </td>
+            <td>
+                @item.StudentCount
+            </td>
+        </tr>
+    }
+</table>
