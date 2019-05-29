@@ -184,3 +184,5 @@ C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedLis
 C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.dll
 C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedList.xml
 C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.xml
+C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.InitialCreate.resources
+C:\Users\iris6\Source\Repos\PeiyiTsai\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.GenerateResource.cache
